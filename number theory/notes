@@ -1,0 +1,40 @@
+Permutation:-
+		Definitions Permutation of A, Permutation Group of A
+		A permutation of a set A is a function from A to A that is both one-
+		to-one and onto. A permutation group of a set A is a set of permuta-
+		tions of A that forms a group under function composition.
+
+		S(n) is non-Abelian when n >= 3
+
+Theorem 5.1 = Products of Disjoint Cycles:-
+		Every permutation of a finite set can be written as a cycle or as a
+		product of disjoint cycles.
+
+Group Isomorphism;-
+		An isomorphism f from a group G to a group G! is a one-to-one map-
+		ping (or function) from G onto G! that preserves the group operation.
+		That is,
+		for all a, b in G.
+		f(ab) = f(a)f(b)
+		If there is an isomorphism from G onto G, we say that G and G are
+		isomorphic and write G = G!.
+		It is implicit in the definition of isomorphism that isomorphic
+		groups have the same order. It is also implicit in the definition of
+		isomorphism that the operation on the left side of the equal sign is that
+		of G, whereas the operation on the right side is that of G.
+
+Theorem 6.2 Properties of Isomorphisms Acting on Elements;>
+		Suppose that f is an isomorphism from a group G onto a group G.
+		Then
+		1. f carries the identity of G to the identity of G.
+		2. For every integer n and for every group element a in G, f(a n ) 5
+		[f(a)] n .
+		3. For any elements a and b in G, a and b commute if and only if
+		f(a) and f(b) commute.
+		4. G 5 kal if and only if G 5 kf(a)l.
+		5. |a| 5 |f(a)| for all a in G (isomorphisms preserve orders).
+		6. For a fixed integer k and a fixed group element b in G, the
+		equation x k 5 b has the same number of solutions in G as does
+		the equation x k 5 f(b) in G.
+		7. If G is finite, then G and G have exactly the same number of
+		elements of every order.
